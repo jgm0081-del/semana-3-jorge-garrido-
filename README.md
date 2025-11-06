@@ -5,3 +5,13 @@ Lo primero que he hecho ha sido crear las maquinas virtuales e indicar que la co
 
 
 <img width="1366" height="768" alt="NETPLAN VM1" src="https://github.com/user-attachments/assets/42cac34d-ab97-464d-b6ff-cbaed1c55646" />
+
+<img width="1366" height="768" alt="NETPLAN VM2" src="https://github.com/user-attachments/assets/b0d48e97-6922-45ec-897f-6ed840384a7b" />
+
+<img width="1366" height="768" alt="PING 1" src="https://github.com/user-attachments/assets/e10be996-d78f-4c18-ac84-47e305d99dba" />
+
+<img width="1366" height="768" alt="PING 2" src="https://github.com/user-attachments/assets/86eef16a-6704-4782-a76e-9fcdd497de7d" />
+
+<img width="1366" height="768" alt="IP A 1" src="https://github.com/user-attachments/assets/102d3db3-24f2-43dd-8f92-c794cedcdaff" />
+
+<img width="1366" height="768" alt="IP A 2" src="https://github.com/user-attachments/assets/c14c9174-3203-4a33-aeec-85705a261039" />
